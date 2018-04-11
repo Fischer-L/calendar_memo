@@ -12,6 +12,7 @@
 - https://github.com/jojosati/bootstrap-datepicker-thai
 - https://blogs.transparent.com/thai/what-year-is-it-in-thailand/
 - http://worldtimer.net/Calendar/index.php?y=1940&h=th&c=Thailand
+- https://github.com/jojosati/bootstrap-datepicker-thai
 
 
 ## Iranian Solar Hijri Calendar
